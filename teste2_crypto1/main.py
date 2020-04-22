@@ -1,8 +1,8 @@
 from Crypto.Cipher import AES
 from Crypto.Util import Counter
-from binascii import hexlify, unhexlify
 
 # rodar em python 2
+# literalmente apenas python main.py no terminal
 
 #-----------------------------------------------------------------------------------------------------
 # Dados da questao
