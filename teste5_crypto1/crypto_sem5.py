@@ -69,21 +69,6 @@ for i in range(1, b):
         print("-------------------------------------------------------------------------------------------------------------------")
         break
      
-#for i in range(1, b):
-
- #   teste_2 = mpz(powmod(aux, i, p1))
-
-
-  #  if teste_2 in set1_esquerda:
-   #     x1 = set1_esquerda[teste_2]
-    #    x0 = i
-        
-     #   x = (x0 * b) + x1
-      #  print("X:")
-       # print(x)
-       # break
-
-#f.close() 
     
 fim = time.time()
 print ("Tempo de execucao:")
